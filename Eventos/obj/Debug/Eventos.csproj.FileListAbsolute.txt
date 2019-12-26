@@ -1,0 +1,6 @@
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\alvar\source\repos\ProgramaEventos\Eventos\obj\Debug\Eventos.pdb
